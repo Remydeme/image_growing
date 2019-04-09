@@ -8,7 +8,7 @@ def square(dim):
     return np.ones(shape=(dim, dim))
 
 
-def traingle():
+def triangle():
     return [
         [0, 0, 0, 1],
         [0, 0, 1, 1],
