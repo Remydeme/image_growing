@@ -7,7 +7,6 @@ import random
 def square(dim):
     return np.ones(shape=(dim, dim))
 
-
 def triangle():
     return [
         [0, 0, 0, 1],
