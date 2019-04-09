@@ -16,9 +16,6 @@ def traingle():
         [1, 1, 1, 1]
     ]
 
-
-
-
 def generateSeed(height, width, img):
     x = random.randint(0, width - 1)
     y = random.randint(0, height - 1)
