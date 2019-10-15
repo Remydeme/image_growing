@@ -1,5 +1,5 @@
-# Segmentation d'images par croissance de région
+# Image segmentation by region growth
 
-## Objectif : 
+## Objective: 
 
-Implémentation de l'algorithme de segmentation par croissance de région en 2D et son application à des images synthétiques et des images réelles.
+Implementation of the 2D region growth segmentation algorithm and its application to synthetic and real images.
